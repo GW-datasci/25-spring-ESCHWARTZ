@@ -17,4 +17,13 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
   - We decided that I should replicate each entry and follow the plan I had above for syncing my data up. 
   - I visualized this data to ensure that the data looked correct. 
 - For some of the subjects, there is more data than others, but only by +/- 400 data points. To mitigate this, I plan on using mean imputation from the prior section to aid in adding the missing values at the end for some of the subjects. 
-  - To ensure I am not cutting any data out given that would indicate data loss, I will first find the subject with the most data points, then align the rest of the subjects with the same quantity of total data points. 
+  - To ensure I am not cutting any data out given that would indicate data loss, I will first find the subject with the most data points, then align the rest of the subjects with the same quantity of total data points.
+
+# Week 3:
+
+- I merged the data to create dataframes and .csv files for each subject.
+- I finished planning out my data processing steps, and my next step is focused on understanding splitting time series data, as I want to ensure I am not influencing potential test data with data processing steps.
+  - Understanding the time series train/test split is my focus for this upcoming week, then once the split is solidified, I will perform data processing steps in accordance with traditional machine learning data processing steps.
+  - I also found this source to aid in my time series data processing steps: https://www.sciencedirect.com/science/article/pii/S2307187724000452#sec0015
+- After some further research, I have determined that I don't think I will need to impute data because technically, for each data frame, there is no data missing.
+  - I will have further insights into this once I finish my time series research.
