@@ -1,6 +1,6 @@
-Weekly Updates
+## Weekly Updates
 
-Week 1:
+# Week 1:
 
 - research on cross validation with time series data
 - began EDA
@@ -11,7 +11,7 @@ scheduled call with Prof Majhi to discuss time data issue and topological data a
 I was thinking for the data frame that has fewer rows, I could multiply each row by 8 to stretch the data out while maintaining the distribution
 multiplying each row by 8 would bring the smaller data frame to the size of the larger data frame and make each row in the formerly small data frame the equivalent of 1/8th second instead of 1 second as it is currently organized
 
-Week 2:
+# Week 2:
 
 - I met with Prof Majhi regarding my data discussed in the last point above
   - We decided that I should replicate each entry and follow the plan I had above for syncing my data up. 
