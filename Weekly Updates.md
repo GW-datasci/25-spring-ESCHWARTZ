@@ -27,3 +27,9 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
   - I also found this source to aid in my time series data processing steps: https://www.sciencedirect.com/science/article/pii/S2307187724000452#sec0015
 - After some further research, I have determined that I don't think I will need to impute data because technically, for each data frame, there is no data missing.
   - I will have further insights into this once I finish my time series research.
+
+# Week 4: 
+- I outlined the rest of my data processing steps, and finished my normalization, outlier detection, missing data detection, and sensor fusion steps.
+- For a different class, DATS 6202: Machine Learning, I am working on classification problems so that has helped me understand my next steps.
+  - I will be using classic logistic regression, some classification models, and some tree-based models.
+  - One of the next steps for me is fine-tuning hyperparameters for my models. 
