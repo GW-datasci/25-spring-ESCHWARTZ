@@ -32,4 +32,9 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
 - I outlined the rest of my data processing steps, and finished my normalization, outlier detection, missing data detection, and sensor fusion steps.
 - For a different class, DATS 6202: Machine Learning, I am working on classification problems so that has helped me understand my next steps.
   - I will be using classic logistic regression, some classification models, and some tree-based models.
-  - One of the next steps for me is fine-tuning hyperparameters for my models. 
+  - One of the next steps for me is fine-tuning hyperparameters for my models.
+  - 
+
+  # Week 5:
+  - Finished my data pre-processing steps.
+  - Working on running my models now!
