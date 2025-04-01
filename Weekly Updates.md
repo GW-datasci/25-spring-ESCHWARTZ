@@ -35,6 +35,12 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
   - One of the next steps for me is fine-tuning hyperparameters for my models.
   - 
 
-  # Week 5:
-  - Finished my data pre-processing steps.
-  - Working on running my models now!
+# Week 5:
+- Finished my data pre-processing steps.
+- Working on running my models now!
+ 
+# Week 6: 
+- Ran my models!
+  - MLP worked best, then Random forest with Temp having the highest feature importance.
+  - Looking to do more biological research to determine why this is.
+- Going to work on starting my paper this week. 
