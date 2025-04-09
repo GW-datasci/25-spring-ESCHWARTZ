@@ -43,4 +43,10 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
 - Ran my models!
   - MLP worked best, then Random forest with Temp having the highest feature importance.
   - Looking to do more biological research to determine why this is.
-- Going to work on starting my paper this week. 
+- Going to work on starting my paper this week.
+
+# Week 7: 
+- Reran models and used SMOTETomek sampling instead of traditional SMOTE
+- Need to continue to do more biological research
+- Met with Prof. Majhi to discuss next steps in writing paper
+  - Planning to use Overleaf to produce a Latex formatted paper
