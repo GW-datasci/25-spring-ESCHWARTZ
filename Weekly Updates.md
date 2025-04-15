@@ -50,3 +50,7 @@ multiplying each row by 8 would bring the smaller data frame to the size of the 
 - Need to continue to do more biological research
 - Met with Prof. Majhi to discuss next steps in writing paper
   - Planning to use Overleaf to produce a Latex formatted paper
+
+# Week 8: 
+- Did final run of models -- happy with where I am at
+- started writing paper in google doc, then going to edit and transfer to Overleaf
