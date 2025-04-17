@@ -1,0 +1,13 @@
+Data:
+
+
+Data folders are too big to push to github due to the nature of this project. 
+
+Link to WESAD data, which selected model will be tested on: https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection
+
+Link to EEG data, which model will be trained, validated, and tested on: https://physionet.org/content/noneeg/1.0.0/
+
+
+Data available as of 1/29/2025
+
+Eva Schwartz
