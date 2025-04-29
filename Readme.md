@@ -1,7 +1,5 @@
-# George Washington University Data Science Program
-## Capstone Course GitHub Repo template
+# “It looks like you’re working out.”: Using Machine Learning Classification Techniques to Predict Physical Stress
+## Eva Schwartz
+## George Washington University Data Science Program
 
-This is based from Prof Amir Jafari's Capstone template (2024-01-01)  
-https://github.com/amir-jafari/Capstone 
-
-Modified by E. Lo for DATS-4001
+<img width="676" alt="Screenshot 2025-04-29 at 2 01 24 PM" src="https://github.com/user-attachments/assets/96227067-0b01-406e-960c-b442cda7cb34" />
